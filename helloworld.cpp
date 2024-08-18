@@ -3,7 +3,7 @@
 
 int main() {
     // Write C++ code here
-    std::cout << "Printing from git";
+    std::cout << "Printing from git" << std::endl;
 
     return 0;
 }
